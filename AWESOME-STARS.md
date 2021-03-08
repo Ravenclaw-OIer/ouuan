@@ -105,7 +105,7 @@
 ## Python 
 
 - [Code-Disturber](https://github.com/ouuan/Code-Disturber) - To generate "beautiful" codes.
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 34 stars and 59 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 61 forks.
 - [SukaPixivPy](https://github.com/Hecate2/SukaPixivPy) - Rough tool to download images from pixiv incrementally
 - [vj4](https://github.com/vijos/vj4) - The online judge service with millions of submissions, since 2005.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
